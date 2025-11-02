@@ -1,1 +1,1 @@
-# Persistence-Marketing-Retention-Architecture
+# Persistent-Marketing-Retention-Architecture
